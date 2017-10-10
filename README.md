@@ -10,13 +10,13 @@ To get the services to run without having to type in the root password though I 
 Making these changes was something I was happy doing but is likely not best practice so only use this if you're comfortable making those changes.
 
 ### Changes to visduo
-'''
+
 <br>
 <username> ALL=NOPASSWD: /bin/systemctl start service0 <br>
 <username> ALL=NOPASSWD: /bin/systemctl start service1<br>
-'''
-#### where <> use your own username
-#### where 'service#' insert your desired service
+
+##### where <> use your own username
+##### where 'service#' insert your desired service
 
 Thank you for taking the time to look at my work.
 
