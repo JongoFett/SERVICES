@@ -1,5 +1,4 @@
 #Run service
-
 I created this as I was having issues with SSH running and was paranoid about DDClient not running.
 
 Though I am sure there are simpler and easier ways to make sure they're always running I decided to play wiht Python in order to create a file which would check to see if they're running, if they are then it leaves them alone. If they're not running then it runs them.
