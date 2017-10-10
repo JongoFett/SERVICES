@@ -11,8 +11,9 @@ Making these changes was something I was happy doing but is likely not best prac
 
 ### Changes to visduo
 '''
-<username> ALL=NOPASSWD: /bin/systemctl start service0
-<username> ALL=NOPASSWD: /bin/systemctl start service1
+<br>
+<username> ALL=NOPASSWD: /bin/systemctl start service0 <br>
+<username> ALL=NOPASSWD: /bin/systemctl start service1<br>
 '''
 #### where <> use your own username
 #### where 'service#' insert your desired service
